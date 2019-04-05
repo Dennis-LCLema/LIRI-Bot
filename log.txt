@@ -1,0 +1,69 @@
+
+concert-this jcole
+undefined
+concert-this J Cole
+undefined
+concert-this Kendrick LLamar
+undefined
+movie-this Munich
+
+
+    Title: Munich
+    Released: 2005
+    IMDB Rating: 7.6
+    Rotten Tomatos Rating: 78%
+    Country: France, Canada, USA
+    Language: English, German, French, Hebrew, Arabic, Italian, Greek, Russian, Dutch
+    Plot: Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.
+    Actors: Eric Bana, Daniel Craig, Ciarán Hinds, Mathieu Kassovitz
+            
+spotify-this-song Fuck your ethnicity
+
+spotify-this-song Keep your head up
+
+
+    Artist: Andy Grammer
+    Track: Keep Your Head Up
+    Preview: https://p.scdn.co/mp3-preview/b5c5d09288153e30231a2aa3911524e59da83793?cid=52c3a24d24864e249e645bafa2ef4a5c
+    Album: Andy Grammer
+            
+spotify-this-song sexy back
+
+
+    Artist: Official Odbeats
+    Track: Want Sexy Back
+    Preview: https://p.scdn.co/mp3-preview/397ea23b23c964e82b3270092452d6c17b37d392?cid=52c3a24d24864e249e645bafa2ef4a5c
+    Album: My Mind
+            
+spotify-this-song empire state of mind
+
+
+    Artist: Alicia Keys
+    Track: Empire State of Mind (Part II) Broken Down
+    Preview: https://p.scdn.co/mp3-preview/6ea63bc18c68a1f518d84b763106d315c6bfef84?cid=52c3a24d24864e249e645bafa2ef4a5c
+    Album: The Element Of Freedom
+            
+do-what-is-says
+
+spotify-this-song empire state of mind
+
+
+    Artist: Alicia Keys
+    Track: Empire State of Mind (Part II) Broken Down
+    Preview: https://p.scdn.co/mp3-preview/6ea63bc18c68a1f518d84b763106d315c6bfef84?cid=52c3a24d24864e249e645bafa2ef4a5c
+    Album: The Element Of Freedom
+            
+concert-this Earl Sweatshirt
+
+
+    Venue: Toyenparken
+    Location: Oslo, 
+    Event Date: August 8, 2019
+            
+concert-this katy perry
+
+
+    Venue: Fairgrounds New Orleans
+    Location: New Orleans, 
+    Event Date: April 26, 2019
+            
